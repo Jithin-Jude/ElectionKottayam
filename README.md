@@ -1,4 +1,4 @@
-# amfk
+# Election Kottayam
 
 An android&#x2F;ios app for reporting issues in polling booth.
 
